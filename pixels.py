@@ -1,3 +1,4 @@
+#source : freeCodeCamp
 
 #get image and convert to pixels
 from PIL import Image

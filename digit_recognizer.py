@@ -1,3 +1,5 @@
+#source : freeCodeCamp
+
 import mnist
 from sklearn import datasets
 import numpy as np
