@@ -1,3 +1,5 @@
+
+#get image and convert to pixels
 from PIL import Image
 import numpy as np
 img = Image.open('five1.png')
